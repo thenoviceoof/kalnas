@@ -1,8 +1,7 @@
 KALNAS
 --------------------------------------------------------------------------------
 
-A NAS system designed to fit within the KALLAX bookshelves from the
-IKEA furniture line.
+A NAS system designed to fit within the KALLAX bookshelves from IKEA.
 
 [Design blog post](#) (upcoming)
 
@@ -19,9 +18,9 @@ Files
 --------------------------------------------------------------------------------
 - 3d_mock.blend: a visualization of the final product.
 
-- *.fcstd: FreeCAD design files, for more complicated cuts.
+- *.fcstd: FreeCAD design files, for more complicated designs.
 
-  - front_panel_outline.fcstd: places for 140mm intake fans.
+  - front_panel_outline.fcstd: ports for 140mm intake fans.
 
   - back_panel_outline.fcstd: 140mm outflow fan, PSU mount.
 
@@ -49,8 +48,8 @@ Strut dimensions:
   strut, bottom. The extra holes are to accomodate a bar to support
   the PSU.
 
-- 9x 160mm. Side-to-side struts, both for the external frame and
-  internal supports for the PSU and drive bays.
+- 9x 160mm. Side-to-side struts, both for the external frame (4x) and
+  internal supports for the PSU and drive bays (5x).
 
 - 8x corner brackets
   ([McMaster-Carr](https://www.mcmaster.com/#47065t244/=17iepme),
