@@ -3,7 +3,7 @@ KALNAS
 
 A NAS system designed to fit within the KALLAX bookshelves from IKEA.
 
-[Design blog post](#) (upcoming)
+[Design blog post](http://thenoviceoof.com/blog/projects/kalnas/)
 
 WARNING: this design has never actually been made/put
 together. However, all the designs were about to be sent out for
