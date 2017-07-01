@@ -31,6 +31,12 @@ Files
 
 - *.svg: intermediate design files.
 
+- corsair_500R_drawings: a set of drawings/dimensions for the Corsair
+  500R 3 drive bay, produced while I was designing the case around
+  this bay. Everything is provided as is and without warranty, but
+  it's worth re-iterating for this: I bought and measure the bay, but
+  the part may change, or I may have screwed up the measurements.
+
 80/20 Dimensions/parts
 --------------------------------------------------------------------------------
 The latest version uses 1 inch 80/20 struts as a frame. As planned,
